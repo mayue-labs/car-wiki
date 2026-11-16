@@ -81,6 +81,7 @@ GitHub Pages 使用 `main` 分支根目录发布，仓库 About 的 Website 与�
 
 ## 版本记录
 
+- **2026-11-16**：依据[广汽集团中期报告](https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0926/2025092601384_c.pdf)更新广汽菲克破产清算节点，依据[大众官方发布](https://newsroom.vw.com.cn/Home/PressReleaseDetail?id=75)细化捷达为“德国渊源 / 中国运营”；收录数量与布局不变。
 - **2026-11-15**：扩展至 171 个条目，更新紧凑桌面布局、目录数量、页眉及计数展示，发布至 GitHub Pages。
 - **2026-11-14**：完成首版图谱与历史档案。
 
